@@ -9,7 +9,7 @@ namespace StretchArmstrong
         {
             Settings.onLoad();
 
-            Debug.Log("[stretch_armstrong] loaded");
+            Debug.Log("[stretch_armstrong] loaded.");
         }
     }
 }
