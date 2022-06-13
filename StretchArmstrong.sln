@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StretchArmstrong", "StretchArmstrong.csproj", "{F38004BD-0441-4B0F-809C-9AF8A9AE16E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F38004BD-0441-4B0F-809C-9AF8A9AE16E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F38004BD-0441-4B0F-809C-9AF8A9AE16E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F38004BD-0441-4B0F-809C-9AF8A9AE16E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F38004BD-0441-4B0F-809C-9AF8A9AE16E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D73840C1-BD5F-417B-B2B1-BC34F6BBD224}
+	EndGlobalSection
+EndGlobal
